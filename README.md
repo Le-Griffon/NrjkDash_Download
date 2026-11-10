@@ -18,4 +18,5 @@ ATI → check the version
 ATCEA F1 → must reply OK
 ATCRA 200 then ATMA, ignition on → steady 0x200 frames, no “BUFFER FULL”
 
+👍 I use Veepeak OBDCheck BLE+.
 👍 Known solid options: OBDLink CX (BLE) or OBDLink MX+ (Classic). They meet the specs on paper; I haven’t tested them on an Energica yet.
